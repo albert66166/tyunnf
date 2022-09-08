@@ -16,7 +16,7 @@ cat << EOF > /etc/v2ray/config.json
         "streamSettings": {
             "network": "ws",
             "wsSettings": {
-                "path": "/2089f30a-86e8-45ef-b7f4-82259d292c04"
+                "path": "/sdfgrefg"
             }
         }
     }],
